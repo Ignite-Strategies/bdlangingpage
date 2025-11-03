@@ -24,7 +24,7 @@ The landing page:
 1. Copy `logo.png` from `ignitebd-frontend/public/logo.png` to `bdlangingpage/public/logo.png`
 2. Install dependencies: `npm install`
 3. Update app URLs in `index.html` and `learn-more.html` to point to your actual app domain
-   - Currently set to `https://app.ignitestrategies.com` - update as needed
+   - Currently set to `https://bd.ignitestrategies.com` - update as needed
 
 ## Development
 
