@@ -1,0 +1,19 @@
+{
+  "name": "bdlangingpage",
+  "version": "1.0.0",
+  "description": "A simple HTML landing page for Ignite Strategies BD that directs users to the platform.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && echo 'Build complete! Deploy the dist folder to your hosting service.'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^7.1.12"
+  }
+}
+
