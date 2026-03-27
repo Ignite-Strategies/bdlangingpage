@@ -4,12 +4,16 @@
   "framework": "vite",
   "rewrites": [
     {
-      "source": "/learn-more",
+      "source": "/privacy",
+      "destination": "/privacy.html"
+    },
+    {
+      "source": "/about",
       "destination": "/learn-more.html"
     },
     {
-      "source": "/pricing",
-      "destination": "/pricing.html"
+      "source": "/learn-more",
+      "destination": "/learn-more.html"
     },
     {
       "source": "/(.*)",
@@ -17,4 +21,3 @@
     }
   ]
 }
-

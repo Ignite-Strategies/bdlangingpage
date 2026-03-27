@@ -7,8 +7,8 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: './index.html',
-        learnMore: './learn-more.html',
-        pricing: './pricing.html'
+        about: './learn-more.html',
+        privacy: './privacy.html'
       }
     }
   },
@@ -17,4 +17,3 @@ export default defineConfig({
     open: true
   }
 })
-
